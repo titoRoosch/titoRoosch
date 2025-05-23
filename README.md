@@ -1,4 +1,4 @@
-# Hi there!
+# Hello there!
 
 ## About Me:
 Experienced web developer with over 8 years in PHP, JavaScript, and frameworks like Laravel, Lumen, and Vue. Committed to ensuring application performance and security through high-quality code standards. Proficient in test-driven development practices for usability and regression prevention. Implements MVC pattern for clear organization of business logic and user interface. Leads agile meetings, emphasizing results and proactive obstacle resolution. Skilled in Docker for environment configuration and scalability
